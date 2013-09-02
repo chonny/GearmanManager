@@ -1,0 +1,15 @@
+{
+    "name": "brianlmoon/GearmanManager",
+    "description": "PHP daemon for managing gearman workers",
+    "license": "BSD-3-Clause",
+    "keywords": [
+        "gearman",
+        "gearman-job-server",
+        "gearman-client",
+    ],
+    "homepage": "http://brian.moonspot.net/GearmanManager",
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.2",
+    }
+}
