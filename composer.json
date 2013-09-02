@@ -4,8 +4,8 @@
     "license": "BSD-3-Clause",
     "keywords": [
         "gearman",
-        "gearman-job-server",
-        "gearman-client",
+        "gearman job server",
+        "gearman client",
     ],
     "homepage": "http://brian.moonspot.net/GearmanManager",
     "minimum-stability": "dev",
